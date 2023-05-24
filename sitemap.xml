@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.alfaingenieria.com.mx/</loc>
+  <lastmod>2021-04-17T19:21:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.alfaingenieria.com.mx/index.html</loc>
+  <lastmod>2021-04-17T19:21:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.alfaingenieria.com.mx/catalogo.pdf</loc>
+  <lastmod>2020-03-11T23:52:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.alfaingenieria.com.mx/avisoprivacidad.pdf</loc>
+  <lastmod>2020-03-11T23:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,13 @@
+# Grupo 1
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /plugins/
+Disallow: /skins/
+Disallow: /fonts/
+
+# Grupo 2
+User-agent: *
+Allow: /
+
+Sitemap: https://elitebuilders4life.com/sitemap.xml
